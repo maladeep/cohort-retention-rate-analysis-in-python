@@ -53,6 +53,6 @@ Here, we will be dealing with mainly on monthly basis for
 * standard_cost
 * list_price
 
-***
+
 
 > Thanks!
