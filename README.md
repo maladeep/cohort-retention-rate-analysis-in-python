@@ -1,5 +1,5 @@
 # cohort-retention-rate-analysis-in-python
-Medium Size Bikes &amp; Cycling Accessories Organisation's Transactions Data Based Cohort Analysis¶
+Medium Size Bikes &amp; Cycling Accessories Organisation's Transactions Data Based Cohort Analysis
 
 <a href='https://medium.com/@maladeep.upadhaya'><img src='images/retention.png' /></a>
 
