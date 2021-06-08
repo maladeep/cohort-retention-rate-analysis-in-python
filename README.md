@@ -11,7 +11,7 @@ Medium Size Bikes &amp; Cycling Accessories Organisation's Transactions Data Bas
 ***
 
 
-## View the complete blog [here](#).
+## View the complete blog [here](https://www.analyticsvidhya.com/blog/2021/06/cohort-analysis-using-python-for-beginners-a-hands-on-tutorial/).
 
 
 
